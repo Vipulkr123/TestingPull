@@ -7,5 +7,8 @@ namespace testingForpull.Models
 {
 	public class Student
 	{
-	}
+        public int MyProperty { get; set; }
+		public int MyValue { get; set; }
+
+    }
 }
